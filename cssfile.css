@@ -1,0 +1,45 @@
+.top{
+    background-color: #EAF6F6;
+    text-align: center;
+    height: 700px;
+}
+.mid{
+    background-color: #aadbdb;
+    text-align: center;
+    height: 1000px;
+}
+.third{
+    margin: 0px;
+}
+h1{
+   color: #66BFBF;
+
+}
+h2{
+   color: #369b9b;
+}
+.nd{
+    color: #1f7e96;
+    padding: 20px;
+    margin-top: 0px;
+}
+table{
+    margin-left: 600px;
+}
+img{
+    margin-top:  30px;
+}
+body{
+    margin: 0px;
+}
+.links{
+    position: relative;
+    left: 300px;
+}
+
+
+.page2{
+    background-color: #EAF6F6;
+    text-align: center;
+    height: 1000px;
+}
